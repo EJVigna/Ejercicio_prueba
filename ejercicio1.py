@@ -1,5 +1,10 @@
 def velocidad(vi, a, t):
-    vel = vi+(a*t)
-    return vel
+    print( vi+(a*t))
+    
 
-print(velocidad(5,4,2))
+velocidad(5, 4, 2)
+
+def saludinho():
+    print ('Hola culiaaao')
+    
+saludinho()
